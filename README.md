@@ -10,7 +10,7 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/7/17/[[실무 경험]  SpringBoot Jar 설정 파일 외부화하기](https://knowing-parakeet-f9a.notion.site/Spring-Boot-Jar-Spring-Boot-X-23329c64a0c380848c01da57936e28c7?source=copy_link)  
 2025/7/19/[[CS] 객체 지향과 RBAC 상속 비교](https://knowing-parakeet-f9a.notion.site/CS-RBAC-23629c64a0c38058a89be0ca5fc092c4?source=copy_link)  
 2025/7/26/[[보안] SSO의 SAML(Security Assertion Markup Language](https://knowing-parakeet-f9a.notion.site/SSO-SAML-Security-Assertion-Markup-Language-23c29c64a0c380e5bd79db1a757379da?source=copy_link)  
-2025/7/29/[[보안] SSO의 SAML(Security Assertion Markup Language <UPDATE>](https://knowing-parakeet-f9a.notion.site/SSO-SAML-Security-Assertion-Markup-Language-23c29c64a0c380e5bd79db1a757379da?source=copy_link)  
+2025/7/29/[[보안] SSO의 SAML(Security Assertion Markup Language `<UPDATE>`](https://knowing-parakeet-f9a.notion.site/SSO-SAML-Security-Assertion-Markup-Language-23c29c64a0c380e5bd79db1a757379da?source=copy_link)  
 
 
 
