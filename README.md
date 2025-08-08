@@ -14,7 +14,8 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/08/01/[[스케줄링] Quartz에서 Transaction](https://knowing-parakeet-f9a.notion.site/Quartz-Transaction-24229c64a0c3807db117ca04787df5a9?source=copy_link)  
 2025/08/03/[[Java] Java Version(8, 17, 21)](https://knowing-parakeet-f9a.notion.site/Java-Java-Version-8-17-21-23129c64a0c3802b903efb52a6638e3e?source=copy_link)  
 2025/08/05/[[Java] 레코드 타입](https://knowing-parakeet-f9a.notion.site/Java-24429c64a0c3800288c6c4d6f5fc4b8c?source=copy_link)  
-2025/08/07/[[MyBatis] 여러 DB에 대한 Mappe 관리](https://knowing-parakeet-f9a.notion.site/MyBatis-DB-Mappe-24829c64a0c3805c833acf28abe43ba7?source=copy_link)  
+2025/08/07/[[MyBatis] 여러 DB에 대한 Mapper 관리](https://knowing-parakeet-f9a.notion.site/MyBatis-DB-Mappe-24829c64a0c3805c833acf28abe43ba7?source=copy_link)  
+2025/08/08/[[MyBatis] CRUD 를 분리하여 관리하기](https://knowing-parakeet-f9a.notion.site/MyBatis-CRUD-24829c64a0c3805d85b1fb94d7112467?source=copy_link)  
 
 
 
