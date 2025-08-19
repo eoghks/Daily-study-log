@@ -18,6 +18,6 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/08/08/[[MyBatis] CRUD 를 분리하여 관리하기](https://knowing-parakeet-f9a.notion.site/MyBatis-CRUD-24829c64a0c3805d85b1fb94d7112467?source=copy_link)  
 2025/08/12/[[CS] 데이터 지향 설계](https://knowing-parakeet-f9a.notion.site/CS-24629c64a0c38064934fdb2aca84f7e0?source=copy_link)  
 2025/08/16/[[CS] 데이터 지향 설계 <CPU 친화적 설계 내용 보강> ](https://knowing-parakeet-f9a.notion.site/CS-24629c64a0c38064934fdb2aca84f7e0?source=copy_link)  
-
+2025/08/19/[[Java] Java에서 지원하는 DOP](https://knowing-parakeet-f9a.notion.site/Java-Java-DOP-25129c64a0c38074aaf6eea312ce3a27?source=copy_link)  
 
 
