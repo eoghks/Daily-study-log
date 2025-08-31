@@ -20,5 +20,6 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/08/16/[[CS] 데이터 지향 설계 <CPU 친화적 설계 내용 보강> ](https://knowing-parakeet-f9a.notion.site/CS-24629c64a0c38064934fdb2aca84f7e0?source=copy_link)  
 2025/08/19/[[Java] Java에서 지원하는 DOP](https://knowing-parakeet-f9a.notion.site/Java-Java-DOP-25129c64a0c38074aaf6eea312ce3a27?source=copy_link)  
 2025/08/24/[[Java] Serializable](https://knowing-parakeet-f9a.notion.site/Java-Serializable-24629c64a0c38071a5a8f2c2e5cf1412?source=copy_link)  
+2025/08/31/[Java] throws exception(https://knowing-parakeet-f9a.notion.site/Java-throws-exception-26029c64a0c380d0a88be153fff16b2a?source=copy_link)  
 
 
