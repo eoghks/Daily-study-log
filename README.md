@@ -21,5 +21,6 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/08/19/[[Java] Java에서 지원하는 DOP](https://knowing-parakeet-f9a.notion.site/Java-Java-DOP-25129c64a0c38074aaf6eea312ce3a27?source=copy_link)  
 2025/08/24/[[Java] Serializable](https://knowing-parakeet-f9a.notion.site/Java-Serializable-24629c64a0c38071a5a8f2c2e5cf1412?source=copy_link)  
 2025/08/31/[Java] throws exception(https://knowing-parakeet-f9a.notion.site/Java-throws-exception-26029c64a0c380d0a88be153fff16b2a?source=copy_link)  
+2025/09/01/[실무 경험] Oracle 사용 시 JDBC 반환 값을 (Integer)로 형변환 할 때 발생하는 버그 (https://knowing-parakeet-f9a.notion.site/Oracle-JDBC-Integer-22d29c64a0c380be9591d00dd8c323dd?source=copy_link)  
 
 
