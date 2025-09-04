@@ -23,4 +23,4 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/08/31/[Java] throws exception(https://knowing-parakeet-f9a.notion.site/Java-throws-exception-26029c64a0c380d0a88be153fff16b2a?source=copy_link)  
 2025/09/01/[실무 경험] Oracle 사용 시 JDBC 반환 값을 (Integer)로 형변환 할 때 발생하는 버그 (https://knowing-parakeet-f9a.notion.site/Oracle-JDBC-Integer-22d29c64a0c380be9591d00dd8c323dd?source=copy_link)  
 2025/09/01/[Database] DB별 별 문자 데이터 타입 비교 (https://knowing-parakeet-f9a.notion.site/Database-DB-26229c64a0c3808983c4c93004b22850?source=copy_link)  
-
+2025/09/04/[Java] 파일 확자자에 따른 처리 방식 (https://knowing-parakeet-f9a.notion.site/Java-26329c64a0c380e58df4cb2a1c68e6fd?source=copy_link)  
