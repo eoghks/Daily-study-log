@@ -22,11 +22,11 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/08/16/[[CS] 데이터 지향 설계 <CPU 친화적 설계 내용 보강> ](https://knowing-parakeet-f9a.notion.site/CS-24629c64a0c38064934fdb2aca84f7e0?source=copy_link)  
 2025/08/19/[[Java] Java에서 지원하는 DOP](https://knowing-parakeet-f9a.notion.site/Java-Java-DOP-25129c64a0c38074aaf6eea312ce3a27?source=copy_link)  
 2025/08/24/[[Java] Serializable](https://knowing-parakeet-f9a.notion.site/Java-Serializable-24629c64a0c38071a5a8f2c2e5cf1412?source=copy_link)  
-2025/08/31/[Java] throws exception(https://knowing-parakeet-f9a.notion.site/Java-throws-exception-26029c64a0c380d0a88be153fff16b2a?source=copy_link)  
+2025/08/31/[[Java] throws exception](https://knowing-parakeet-f9a.notion.site/Java-throws-exception-26029c64a0c380d0a88be153fff16b2a?source=copy_link)  
 ---  
 # 2025년 9월  
-2025/09/01/[실무 경험] Oracle 사용 시 JDBC 반환 값을 (Integer)로 형변환 할 때 발생하는 버그 (https://knowing-parakeet-f9a.notion.site/Oracle-JDBC-Integer-22d29c64a0c380be9591d00dd8c323dd?source=copy_link)  
-2025/09/01/[Database] DB별 별 문자 데이터 타입 비교 (https://knowing-parakeet-f9a.notion.site/Database-DB-26229c64a0c3808983c4c93004b22850?source=copy_link)  
-2025/09/04/[Java] 파일 확자자에 따른 처리 방식 (https://knowing-parakeet-f9a.notion.site/Java-26329c64a0c380e58df4cb2a1c68e6fd?source=copy_link)  
-2025/09/07/어댑터(Adapter) 패턴 적용해보기 (https://knowing-parakeet-f9a.notion.site/Adapter-19529c64a0c380b6a0dbdc44c4a1aad5?source=copy_link)  
+2025/09/01/[[실무 경험] Oracle 사용 시 JDBC 반환 값을 (Integer)로 형변환 할 때 발생하는 버그](https://knowing-parakeet-f9a.notion.site/Oracle-JDBC-Integer-22d29c64a0c380be9591d00dd8c323dd?source=copy_link)  
+2025/09/01/[[Database] DB별 별 문자 데이터 타입 비교](https://knowing-parakeet-f9a.notion.site/Database-DB-26229c64a0c3808983c4c93004b22850?source=copy_link)  
+2025/09/04/[[Java] 파일 확자자에 따른 처리 방식](https://knowing-parakeet-f9a.notion.site/Java-26329c64a0c380e58df4cb2a1c68e6fd?source=copy_link)  
+2025/09/07/[어댑터(Adapter) 패턴 적용해보기](https://knowing-parakeet-f9a.notion.site/Adapter-19529c64a0c380b6a0dbdc44c4a1aad5?source=copy_link)  
 ---
