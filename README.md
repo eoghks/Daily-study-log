@@ -33,4 +33,5 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/09/11/[[Database] Oracle - ORDER SIBLINGS BY](https://knowing-parakeet-f9a.notion.site/Database-Oracle-ORDER-SIBLINGS-BY-26b29c64a0c38068b69cfcf85670d669?source=copy_link)  
 2025/09/13/[[Database] Oracle JDBC Timestamp](https://knowing-parakeet-f9a.notion.site/Database-Oracle-JDBC-Timestamp-26d29c64a0c3805bb7abeeb2282c6fd1?source=copy_link)  
 2025/09/14/[[Database] WITH 절 실행 여부](https://knowing-parakeet-f9a.notion.site/Database-WITH-26e29c64a0c380d7af23e702cb6af419?source=copy_link)  
+2025/09/16/[[Database] Oracle 힌트](https://knowing-parakeet-f9a.notion.site/Database-Oracle-26e29c64a0c3808ea2bfef86be70d945?source=copy_link)  
 ---
