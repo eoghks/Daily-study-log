@@ -35,4 +35,5 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/09/14/[[Database] WITH 절 실행 여부](https://knowing-parakeet-f9a.notion.site/Database-WITH-26e29c64a0c380d7af23e702cb6af419?source=copy_link)  
 2025/09/16/[[Database] Oracle 힌트](https://knowing-parakeet-f9a.notion.site/Database-Oracle-26e29c64a0c3808ea2bfef86be70d945?source=copy_link)  
 2025/09/19/[JDBC에서 TIMESTAMP를 안전하게 다루기](https://knowing-parakeet-f9a.notion.site/JDBC-TIMESTAMP-26129c64a0c3800bbab6e2ea7b7f11ed?source=copy_link)  
+2025/09/21/[[Database]뷰와 인라인 뷰](https://knowing-parakeet-f9a.notion.site/Database-b7885e2f52434714bd18979a61e72501?source=copy_link)  
 ---
