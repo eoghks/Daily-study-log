@@ -38,3 +38,5 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/09/21/[[Database]뷰와 인라인 뷰](https://knowing-parakeet-f9a.notion.site/Database-b7885e2f52434714bd18979a61e72501?source=copy_link)  
 2025/09/28/[[스케줄링] Quartz driverDelegateClass](https://knowing-parakeet-f9a.notion.site/Quartz-driverDelegateClass-27c29c64a0c3803aa38fee946dc419ad?source=copy_link)  
 ---
+2025/10/03/[[Spring] @PostConstruct](https://knowing-parakeet-f9a.notion.site/Spring-PostConstruct-28129c64a0c380119dbad02e0e9bdabe?source=copy_link)  
+---
