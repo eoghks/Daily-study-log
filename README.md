@@ -39,4 +39,5 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/09/28/[[스케줄링] Quartz driverDelegateClass](https://knowing-parakeet-f9a.notion.site/Quartz-driverDelegateClass-27c29c64a0c3803aa38fee946dc419ad?source=copy_link)  
 ---
 2025/10/03/[[Spring] @PostConstruct](https://knowing-parakeet-f9a.notion.site/Spring-PostConstruct-28129c64a0c380119dbad02e0e9bdabe?source=copy_link)  
+2025/10/05/[[Spring] ObjectProvider](https://knowing-parakeet-f9a.notion.site/Spring-ObjectProvider-28329c64a0c3808091a2c8abb7fa1a08?source=copy_link)  
 ---
