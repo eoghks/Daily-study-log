@@ -40,4 +40,5 @@ notion 이론 정리 내역 (2025-07-11 시작)
 ---
 2025/10/03/[[Spring] @PostConstruct](https://knowing-parakeet-f9a.notion.site/Spring-PostConstruct-28129c64a0c380119dbad02e0e9bdabe?source=copy_link)  
 2025/10/05/[[Spring] ObjectProvider](https://knowing-parakeet-f9a.notion.site/Spring-ObjectProvider-28329c64a0c3808091a2c8abb7fa1a08?source=copy_link)  
+2025/10/07/[[Spring] @PreDestory](https://knowing-parakeet-f9a.notion.site/Spring-PreDestory-28529c64a0c3806a989dc0a473f58ff2?source=copy_link)  
 ---
