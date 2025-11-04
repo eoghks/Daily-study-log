@@ -44,5 +44,8 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/10/07/[[Spring] @PreDestory](https://knowing-parakeet-f9a.notion.site/Spring-PreDestory-28529c64a0c3806a989dc0a473f58ff2?source=copy_link)  
 2025/10/10/[[Spring] @EventListener](https://knowing-parakeet-f9a.notion.site/Spring-EventListener-28829c64a0c380589217cb5e3532e1db?source=copy_link)  
 2025/10/19/[[Spring] Custom Annotation과 AOP](https://knowing-parakeet-f9a.notion.site/Spring-Custom-Annotation-AOP-29129c64a0c38040b07ce5ff67e713cd?source=copy_link)  
-2025/10/24/[[JAVA]Stream API](https://knowing-parakeet-f9a.notion.site/JAVA-Stream-API-c4e68a7ca52a43daaad75afb3dde8dac?source=copy_link)
+2025/10/24/[[JAVA]Stream API](https://knowing-parakeet-f9a.notion.site/JAVA-Stream-API-c4e68a7ca52a43daaad75afb3dde8dac?source=copy_link)  
+---
+# 2025년 11월
+2025/10/24/[[Java] sealed class](https://knowing-parakeet-f9a.notion.site/Java-sealed-class-2a129c64a0c3800eba64ff1b602d9a64?source=copy_link)  
 ---
