@@ -49,4 +49,5 @@ notion 이론 정리 내역 (2025-07-11 시작)
 # 2025년 11월
 2025/11/04/[[Java] sealed class](https://knowing-parakeet-f9a.notion.site/Java-sealed-class-2a129c64a0c3800eba64ff1b602d9a64?source=copy_link)  
 2025/11/13/[[Database] Trasaction(propagation = REQUIRES_NEW) 중첩이 위험한 이유](https://knowing-parakeet-f9a.notion.site/Database-Trasaction-propagation-REQUIRES_NEW-2aa29c64a0c380969076c31a6f312874?source=copy_link)  
+2025/11/23/[[CS] EAI 시스템과 연계](https://knowing-parakeet-f9a.notion.site/CS-EAI-2b429c64a0c38060b160fb62624a4c78?source=copy_link)  
 ---
