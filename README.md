@@ -52,3 +52,6 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/11/23/[[CS] EAI 시스템과 연계](https://knowing-parakeet-f9a.notion.site/CS-EAI-2b429c64a0c38060b160fb62624a4c78?source=copy_link)  
 2025/11/24/[[CS] EAI 시스템과 연계 HMAC 추가 `<UPDATE>`](https://knowing-parakeet-f9a.notion.site/CS-EAI-2b429c64a0c38060b160fb62624a4c78?source=copy_link)  
 ---
+# 2025년 12월
+2025/12/07/[랜섬웨어](https://knowing-parakeet-f9a.notion.site/2c229c64a0c380ab8dc1d511b02ba038?source=copy_link)  
+---
