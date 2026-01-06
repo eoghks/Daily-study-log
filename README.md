@@ -56,5 +56,6 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2025/12/07/[랜섬웨어](https://knowing-parakeet-f9a.notion.site/2c229c64a0c380ab8dc1d511b02ba038?source=copy_link)  
 ---
 # 2026년 1월
-2026/01/04/[[실무 경험]Batch Service 무한 대기-upload 및 분석 중](https://knowing-parakeet-f9a.notion.site/Batch-Service-2de29c64a0c380a2a26ce68a750a3922?source=copy_link)
+2026/01/04/[[실무 경험]Batch Service 무한 대기-upload 및 분석 중](https://knowing-parakeet-f9a.notion.site/Batch-Service-2de29c64a0c380a2a26ce68a750a3922?source=copy_link)  
+2026/01/07/[[실무 경험]배치 미실행](https://knowing-parakeet-f9a.notion.site/2e029c64a0c3806fb3ebe91dbe3ed96e?source=copy_link)
 ---
