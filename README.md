@@ -61,4 +61,5 @@ notion 이론 정리 내역 (2025-07-11 시작)
 ---
 # 2026년 2월
 2026/02/02/[[실무 경험]역할 역동기 설계](https://knowing-parakeet-f9a.notion.site/2fb29c64a0c3801c8715e02a016ee297?source=copy_link)  
+2026/02/10/[[JPA]Entity Graph](https://knowing-parakeet-f9a.notion.site/JPA-Entity-Graph-30329c64a0c3807cb399ccc2bf39ca32?source=copy_link)  
 ---
