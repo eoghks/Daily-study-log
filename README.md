@@ -65,3 +65,6 @@ notion 이론 정리 내역 (2025-07-11 시작)
 2026/02/11/[[JAVA]제네릭(Genric) Update](https://knowing-parakeet-f9a.notion.site/JAVA-Generic-64ca88538ed94da2abcedf88e07316a9?source=copy_link)  
 2026/02/17/[[JAVA] Interface. Abstract Class Update](https://knowing-parakeet-f9a.notion.site/JAVA-Interface-Abstract-Class-94f22f4af29549debe7a4a2a84e0b9a3?source=copy_link)  
 ---
+# 2026년 3월
+2026/03/17/[[Database] 데이터베이스 접근 계층과 성능 이해](https://knowing-parakeet-f9a.notion.site/Database-32629c64a0c380fba1aec67cf9ccaca8?source=copy_link)  
+---
